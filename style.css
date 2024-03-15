@@ -31,6 +31,10 @@ a:hover {
 
 section {
     margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 0 5px #aaa
 }
 
 footer {
